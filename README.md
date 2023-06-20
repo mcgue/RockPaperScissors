@@ -1,3 +1,3 @@
 # Rock, Paper, Scissors Game
-Created to work on programming skills.<br>
-Not finished and may not finish since superceded by another project.
+### Status: Not finished and never will since superceded by another project.
+### Future: Delete?
