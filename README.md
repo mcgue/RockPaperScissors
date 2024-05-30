@@ -1,3 +1,3 @@
 # RockPaperScissors 
 Game of Rock, Paper, Scissors<br>
-Status: not finished and never finsih this one since started another similar project
+Status: moved to another one, so this one finished
